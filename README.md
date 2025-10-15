@@ -1,5 +1,5 @@
 # ai-agent-eval-blueprint
-An example to use an eval feature of AI agent evaluation - LLM-as-judge exampel
+This repo accompanies the article **“Evaluating AI Agents in Practice.”** The article includes short snippets; **full runnable code** is here. An example to use an eval feature of AI agent evaluation - LLM-as-judge example
 
 ## Quickstart
 

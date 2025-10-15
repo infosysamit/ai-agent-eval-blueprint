@@ -6,10 +6,7 @@ An example to use an eval feature of AI agent evaluation - LLM-as-judge exampel
 ### 1) Prerequisites
 - Python 3.10+
 - An API key for your LLM provider(s) (e.g., `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`)
-- Optional: Docker (for isolated runs)
+- Anaconda or Jupyternotebool
 
 ### 2) Setup
-```bash
-git clone https://github.com/infosysamit/ai-agent-eval-blueprint.git
-cd ai-agent-eval-blueprint
-
+Download the InfoQ_Eval.ipynb and open it into Jupyter notebook and execute the cells, observe the results

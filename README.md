@@ -10,12 +10,6 @@ An example to use an eval feature of AI agent evaluation - LLM-as-judge exampel
 
 ### 2) Setup
 ```bash
-git clone https://github.com/<your-org>/agentic-commerce-evals.git
-cd agentic-commerce-evals
+git clone https://github.com/infosysamit/ai-agent-eval-blueprint.git
+cd ai-agent-eval-blueprint
 
-# choose one dependency style
-pip install -r requirements.txt
-# or:
-# pipx install uv && uv sync
-
-cp .env.example .env            # add your API keys
